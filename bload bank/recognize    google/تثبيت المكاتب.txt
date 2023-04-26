@@ -1,0 +1,7 @@
+لا تنسوا دعم القناة بنشرها اخوتي في الله 
+
+تثبيت المكاتب :
+pip install pyttsx3
+pip install qrcode
+pip install pydube
+pip install SpeechRecognition
